@@ -54,8 +54,8 @@
     "gulp-webserver": "0.9.1",
     "lodash": "4.17.10",
     "pathmodify": "0.5.0",
-    "react": "^16.0.0",
-    "react-dom": "^16.0.0",
+    "react": "16.7.0",
+    "react-dom": "16.7.0",
     "require-dir": "1.0.0",
     "undertaker-forward-reference": "1.0.2",
     "vinyl-buffer": "1.0.1",
@@ -65,7 +65,7 @@
   },
   "peerDependencies": {
     "gulp": "github:gulpjs/gulp#ed27cbeb576111641a72a9a89b8c3e1eb443172b",
-    "react": "^16.0.0",
-    "react-dom": "^16.0.0"
+    "react": "16.7.0",
+    "react-dom": "16.7.0"
   }
 }
